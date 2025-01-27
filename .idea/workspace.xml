@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="039bf39d-4ae2-4a21-99b6-c55b5be4a749" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MethodsExplained.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +55,7 @@
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.MethodsExplained">
+  <component name="RunManager" selected="Application.SolutionMethods">
     <configuration name="ConditionalStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.ConditionalStatements" />
       <module name="guidewire" />
@@ -96,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionBooleanOperators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.SolutionBooleanOperators" />
+    <configuration name="SolutionMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.SolutionMethods" />
       <module name="guidewire" />
       <extension name="coverage">
         <pattern>
@@ -124,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SolutionMethods" />
         <item itemvalue="Application.MethodsExplained" />
         <item itemvalue="Application.LoopsExplained" />
         <item itemvalue="Application.ConditionalStatements" />
         <item itemvalue="Application.SolutionStringMethods" />
-        <item itemvalue="Application.SolutionBooleanOperators" />
       </list>
     </recent_temporary>
   </component>
