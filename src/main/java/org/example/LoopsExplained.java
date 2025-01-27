@@ -43,5 +43,7 @@ public class LoopsExplained {
             System.out.println(nrs[k]);
         }
 
+        System.out.println("Length array:" + nrs.length);
+
     }
 }
