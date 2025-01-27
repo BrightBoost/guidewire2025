@@ -1,17 +1,45 @@
 package org.example;
 
-//TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
-// click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
+    // My main method - this is a comment
     public static void main(String[] args) {
-        //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
-        // to see how IntelliJ IDEA suggests fixing it.
-        System.out.printf("Hello and welcome!");
+        int nr = 7;
+        int blabla; // declaration
+        blabla = 10; // assignment and initialization
+        long longNr = 12345678902L;
+        long smallLongNr = 1;
+        int newInt = (int) smallLongNr;
+        double decimalNr = 6.6;
+        boolean javaIsFun = true;
+        float floatNr = 6.6f;
+        char c = 'c';
+        String text = "Java is fun!";
+        System.out.println(newInt);
+        System.out.println("Good morning!");
+        System.out.println("Hello world!");
 
-        for (int i = 1; i <= 5; i++) {
-            //TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have set one <icon src="AllIcons.Debugger.Db_set_breakpoint"/> breakpoint
-            // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
-            System.out.println("i = " + i);
-        }
+        // regular basic math + - / *
+        int result = nr - blabla;
+        System.out.println(result);
+        // modulo (basic math but less basic)
+        int remainder = 3 % 2;
+        boolean even = remainder == 0; // == checks for equality
+        boolean odd = remainder != 0; // != checks for non-equality
+        boolean complexComparison = result == 2 || remainder != 0; // || or
+        boolean complexComparison2 = result == 2 && remainder != 0; // && and
+
+        // strings - text
+        String value = "bla bla bla";
+        System.out.println(value.startsWith("B"));
+        System.out.println(value.toLowerCase());
+        System.out.println(value.toUpperCase());
+        System.out.println(value);
+        String value2 = "123456789";
+        System.out.println(value2.substring(4, 7));
+        boolean x = value.equals(value2); // check for equality, for objects == only checks the memory address not the content
+        System.out.println(value.length());
+        System.out.println(value.charAt(3));
+        System.out.println(value2.contains("678"));
+
     }
 }
