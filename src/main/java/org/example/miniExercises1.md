@@ -49,7 +49,7 @@
 6. Use `.length()` to print the number of characters in `sentence = "Hello, world!"`.
 7. Replace all `e` with `a` in `str = "elephant"`. Print the result.
 8. Check if `sentence = "Java is fun"` contains the word "fun" using `.contains()`.
-9. Combine `.toUpperCase()` and `.substring()` to extract and capitalize the first word in `text = "coding is great"`.
+9. THIS ONE IS ANNOYING: Combine `.toUpperCase()` and `.substring()` to extract and capitalize the first word in `text = "coding is great"`.
 10. Reverse a string manually: `String input = "abc";` Print `cba` (hint: use `.charAt()` BONUS: in a loop).
 
 ---
