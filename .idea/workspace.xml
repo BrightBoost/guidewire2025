@@ -5,26 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="039bf39d-4ae2-4a21-99b6-c55b5be4a749" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/miniExercisesOO.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/exercises/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/exercises/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/interfaces/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/interfaces/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/interfaces/Cylinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/interfaces/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/interfaces/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/interfaces/Predator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/interfaces/Prey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/interfaces/Rabbit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/interfaces/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/interfaces/WaterBottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/miniExercisesInterfaces.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ConditionalStatements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day1/ConditionalStatements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LoopsExplained.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day1/LoopsExplained.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MethodsExplained.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day1/MethodsExplained.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SolutionBasicMathOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day1/SolutionBasicMathOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SolutionBooleanOperators.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day1/SolutionBooleanOperators.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SolutionMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day1/SolutionMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SolutionStringMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day1/SolutionStringMethods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/SolutionVariablesAndPrinting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day1/SolutionVariablesAndPrinting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/miniExercises1.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day1/miniExercises1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/miniExercisesMethods.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/day1/miniExercisesMethods.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +28,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -62,10 +57,12 @@
     "Application.LoopsExplained.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MethodsExplained.executor": "Run",
+    "Application.Person.executor": "Run",
     "Application.SolutionBasicMathOperators.executor": "Run",
     "Application.SolutionBooleanOperators.executor": "Run",
     "Application.SolutionMethods.executor": "Run",
     "Application.SolutionStringMethods.executor": "Run",
+    "Application.org.example.day2.interfaces.App.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -83,39 +80,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/org/example/day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.org.example.day2.interfaces.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.day2.App" />
       <module name="guidewire" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="org.example.day2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConditionalStatements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.ConditionalStatements" />
-      <module name="guidewire" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.day1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LoopsExplained" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.LoopsExplained" />
-      <module name="guidewire" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="org.example.day1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,6 +107,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Person" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day2.exercises.Person" />
+      <module name="guidewire" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.day2.exercises.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SolutionMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.day1.SolutionMethods" />
       <module name="guidewire" />
@@ -149,13 +133,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="org.example.day2.interfaces.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day2.interfaces.App" />
+      <module name="guidewire" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.day2.interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.day2.interfaces.App" />
+        <item itemvalue="Application.Person" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.SolutionMethods" />
         <item itemvalue="Application.MethodsExplained" />
-        <item itemvalue="Application.LoopsExplained" />
-        <item itemvalue="Application.ConditionalStatements" />
       </list>
     </recent_temporary>
   </component>
