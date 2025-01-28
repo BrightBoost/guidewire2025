@@ -14,4 +14,9 @@ public class Dog extends Pet {
     public void ruinShoes() {
         System.out.println(this.getName() + ": Yum nice shoe...GRRR");
     }
+
+    @Override
+    public void makeSound() {
+        System.out.println("woof woof");
+    }
 }

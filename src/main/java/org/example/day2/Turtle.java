@@ -19,4 +19,9 @@ public class Turtle extends Pet {
     public static int getTurtlePopulation() {
         return turtlePopulation;
     }
+
+    @Override
+    public void makeSound() {
+        System.out.println("...");
+    }
 }

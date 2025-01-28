@@ -1,6 +1,6 @@
 package org.example.day2;
 
-public class Pet {
+public abstract class Pet {
     private String name;
     private double weight;
     private String[] colors;
@@ -57,4 +57,6 @@ public class Pet {
     public void setSecondHand(boolean secondHand) {
         this.secondHand = secondHand;
     }
+
+    public abstract void makeSound();
 }
