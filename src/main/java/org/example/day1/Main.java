@@ -1,4 +1,4 @@
-package org.example;
+package org.example.day1;
 
 public class Main {
     // My main method - this is a comment

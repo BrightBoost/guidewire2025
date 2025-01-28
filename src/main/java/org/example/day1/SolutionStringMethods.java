@@ -1,4 +1,4 @@
-package org.example;
+package org.example.day1;
 
 public class SolutionStringMethods {
     public static void main(String[] args) {

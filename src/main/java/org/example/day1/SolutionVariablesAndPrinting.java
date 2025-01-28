@@ -1,4 +1,4 @@
-package org.example;
+package org.example.day1;
 
 public class SolutionVariablesAndPrinting {
     public static void main(String[] args) {
