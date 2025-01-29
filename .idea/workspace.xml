@@ -5,18 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="039bf39d-4ae2-4a21-99b6-c55b5be4a749" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/exercises/generics/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/exercises/generics/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/exercises/generics/DataHolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day2/exercises/generics/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day3/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day3/CollectionsExplained.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day3/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day3/Salamander.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day3/Turtle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day3/exercisesCollections.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day3/exercises/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/day3/exercises/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +54,7 @@
     "Application.org.example.day2.exercises.generics.App.executor": "Run",
     "Application.org.example.day2.exercises.interfaces.App.executor": "Run",
     "Application.org.example.day2.interfaces.App.executor": "Run",
+    "Application.org.example.day3.exercises.App.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -81,7 +72,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/org/example/day1" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.App">
+  <component name="RunManager" selected="Application.org.example.day3.exercises.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.day3.App" />
       <module name="guidewire" />
@@ -134,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="org.example.day2.interfaces.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.day2.interfaces.App" />
+    <configuration name="org.example.day3.exercises.App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.day3.exercises.App" />
       <module name="guidewire" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="org.example.day2.interfaces.*" />
+          <option name="PATTERN" value="org.example.day3.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.org.example.day3.exercises.App" />
         <item itemvalue="Application.App" />
         <item itemvalue="Application.CollectionsExplained" />
         <item itemvalue="Application.org.example.day2.exercises.generics.App" />
         <item itemvalue="Application.org.example.day2.exercises.interfaces.App" />
-        <item itemvalue="Application.org.example.day2.interfaces.App" />
       </list>
     </recent_temporary>
   </component>
